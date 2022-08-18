@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author estudiante
- *
- */
-package Imc;
